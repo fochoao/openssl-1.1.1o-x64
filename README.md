@@ -1,4 +1,4 @@
-# OpenSSL 3.0.2 x64
+# OpenSSL 1.1.1o x64
 
 # Put the next variables of Environment, and add the folders to path, you can skip however data and private subfolders inside SSL folder.
 
